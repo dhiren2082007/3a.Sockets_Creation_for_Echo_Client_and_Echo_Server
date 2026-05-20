@@ -62,7 +62,11 @@ s.close()
 
 ## OUTPUT
 
+### Server:
+
 <img width="889" height="239" alt="image" src="https://github.com/user-attachments/assets/2c0bf3d3-154e-4cdc-8535-9dcf1fb98f2b" />
+
+### Client:
 
 <img width="879" height="197" alt="image" src="https://github.com/user-attachments/assets/133c5e82-f98d-414d-97cb-e620bd381e50" />
 
